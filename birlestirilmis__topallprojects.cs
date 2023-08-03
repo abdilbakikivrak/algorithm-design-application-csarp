@@ -101,10 +101,12 @@ namespace ABK
 
                         select m;
 
-            Console.WriteLine(meyve);
+            foreach (var m in meyveler)
+          //  {
+                Console.WriteLine(m); // burası foreachtan sonra tek satır olduğu için süslü parantezler yazılmasa da olabilir.
+          //  }
             
-
-
+            
         }
     }
 }
