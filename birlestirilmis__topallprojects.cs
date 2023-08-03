@@ -83,7 +83,7 @@ using System;
     }
 }
 */
-
+// var ile linq kullanarak string yapısında filtre seçme yapma
 using System;
 using System.Linq;
 
