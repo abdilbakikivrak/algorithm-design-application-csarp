@@ -101,10 +101,10 @@ namespace ABK
 
                         select m;
 
-            foreach (var m in meyveler)
+            foreach (var m in meyve) // yukarıdaki linq ile filtre yaptığım a öncelikli meyve değişkenine çektiğimiz filtre değeri çekiyor 
           //  {
                 Console.WriteLine(m); // burası foreachtan sonra tek satır olduğu için süslü parantezler yazılmasa da olabilir.
-          //  }
+          //  }                         // filtrelediğimiz şekilde veriyi alıyorum a karakteri öncelikli string veriisi 
             
             
         }
