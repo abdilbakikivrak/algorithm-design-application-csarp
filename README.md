@@ -6,5 +6,5 @@ algorithmdesign2orta.cs çalışmasında kullandığım bazı özel fonskiyonlar
 
 algorithmdesign3ortaa.cs çalışmasının içinde tanımlı dizi fonksiyonlar dizi.cs class'ı içerisinde yer alır
 
-algorithmdesign4orta.cs çalışmasının içinde tanımlı string foksiyonlar string1.cs class'ı içerisinde yer alır 
+algorithmdesign4orta.cs çalışmasının içinde tanımlı string foksiyonlar string1.cs class'ı içerisinde yer alır. 
 
